@@ -15,3 +15,4 @@ const bonus: number = 1000
 console.log(salary);
 console.log(bonus);
 console.log(salary + bonus);
+
